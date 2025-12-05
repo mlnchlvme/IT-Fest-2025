@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "ru": "Казахстанский университет технологий",
+      "en": "Kazakhstan University of Technology",
+      "kk": "Қазақстан технология университеті"
+    },
+    "description": {
+      "ru": "Ведущий технический университет, специализирующийся на информационных технологиях и инженерии.",
+      "en": "Leading technical university specializing in information technology and engineering.",
+      "kk": "Ақпараттық технологиялар мен инженерияға маманданған жетекші техникалық университет."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, ул. Толе би, 59",
+      "en": "Almaty, Tole Bi str., 59",
+      "kk": "Алматы қ., Төле би к-сі, 59"
+    },
+    "website": "https://example.kz",
+    "rating": 4.5,
+    "contacts": {
+      "phone": "+7 (727) 123-45-67",
+      "email": "info@university1.kz"
+    }
+  },
+  {
+    "id": 2,
+    "name": {
+      "ru": "Национальный университет науки и технологий",
+      "en": "National University of Science and Technology",
+      "kk": "Ұлттық ғылым және технология университеті"
+    },
+    "description": {
+      "ru": "Престижный университет с сильными программами в области компьютерных наук.",
+      "en": "Prestigious university with strong programs in computer science.",
+      "kk": "Компьютерлік ғылымдар саласында күшті бағдарламалары бар беделді университет."
+    },
+    "region": {
+      "ru": "Нур-Султан",
+      "en": "Nur-Sultan",
+      "kk": "Нұр-Сұлтан"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Нур-Султан, пр. Кабанбай батыра, 53",
+      "en": "Nur-Sultan, Kabanbay Batyr ave., 53",
+      "kk": "Нұр-Сұлтан қ., Қабанбай батыр д-лы, 53"
+    },
+    "website": "https://example.kz",
+    "rating": 4.7,
+    "contacts": {
+      "phone": "+7 (7172) 123-45-67",
+      "email": "info@university2.kz"
+    }
+  },
+  {
+    "id": 3,
+    "name": {
+      "ru": "Назарбаев Университет",
+      "en": "Nazarbayev University",
+      "kk": "Назарбаев Университеті"
+    },
+    "description": {
+      "ru": "Автономный исследовательский университет мирового класса с программами на английском языке.",
+      "en": "World-class autonomous research university with English-language programs.",
+      "kk": "Ағылшын тілінде бағдарламалары бар әлемдік деңгейдегі автономды зерттеу университеті."
+    },
+    "region": {
+      "ru": "Астана",
+      "en": "Astana",
+      "kk": "Астана"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Астана, ул. Кабанбай батыра, 53",
+      "en": "Astana, Kabanbay Batyr str., 53",
+      "kk": "Астана қ., Қабанбай батыр к-сі, 53"
+    },
+    "website": "https://nu.edu.kz",
+    "rating": 4.9,
+    "contacts": {
+      "phone": "+7 (7172) 709-100",
+      "email": "info@nu.edu.kz"
+    }
+  },
+  {
+    "id": 5,
+    "name": {
+      "ru": "Казахский Национальный Университет имени аль-Фараби",
+      "en": "Al-Farabi Kazakh National University",
+      "kk": "Әл-Фараби атындағы Қазақ Ұлттық Университеті"
+    },
+    "description": {
+      "ru": "Старейший и крупнейший университет Казахстана с широким спектром программ.",
+      "en": "The oldest and largest university in Kazakhstan with a wide range of programs.",
+      "kk": "Қазақстандағы ең көне және ең үлкен университет, кең бағдарламалар спектрі бар."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, пр. аль-Фараби, 71",
+      "en": "Almaty, al-Farabi ave., 71",
+      "kk": "Алматы қ., Әл-Фараби д-лы, 71"
+    },
+    "website": "https://kaznu.kz",
+    "rating": 4.6,
+    "contacts": {
+      "phone": "+7 (727) 377-33-33",
+      "email": "info@kaznu.kz"
+    }
+  },
+  {
+    "id": 6,
+    "name": {
+      "ru": "Казахстанский институт международных отношений",
+      "en": "Kazakhstan Institute of International Relations",
+      "kk": "Қазақстан халықаралық қатынастар институты"
+    },
+    "description": {
+      "ru": "Специализированный институт по подготовке дипломатов и международников.",
+      "en": "Specialized institute for training diplomats and international relations specialists.",
+      "kk": "Дипломаттар мен халықаралық қатынастар мамандарын даярлайтын мамандандырылған институт."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, ул. Муратбаева, 123",
+      "en": "Almaty, Muratbayev str., 123",
+      "kk": "Алматы қ., Мұратбаев к-сі, 123"
+    },
+    "website": "https://example.kz",
+    "rating": 4.4,
+    "contacts": {
+      "phone": "+7 (727) 123-45-68",
+      "email": "info@kiir.kz"
+    }
+  },
+  {
+    "id": 9,
+    "name": {
+      "ru": "Казахский Национальный Медицинский Университет",
+      "en": "Kazakh National Medical University",
+      "kk": "Қазақ Ұлттық Медицина Университеті"
+    },
+    "description": {
+      "ru": "Ведущий медицинский университет страны с современной клинической базой.",
+      "en": "The country's leading medical university with a modern clinical base.",
+      "kk": "Заманауи клиникалық базасы бар елдің жетекші медициналық университеті."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, ул. Торайгырова, 19",
+      "en": "Almaty, Toraighyrov str., 19",
+      "kk": "Алматы қ., Торайғыров к-сі, 19"
+    },
+    "website": "https://kaznmu.kz",
+    "rating": 4.8,
+    "contacts": {
+      "phone": "+7 (727) 292-66-44",
+      "email": "info@kaznmu.kz"
+    }
+  },
+  {
+    "id": 10,
+    "name": {
+      "ru": "Казахская Национальная Академия Искусств",
+      "en": "Kazakh National Academy of Arts",
+      "kk": "Қазақ Ұлттық Өнер Академиясы"
+    },
+    "description": {
+      "ru": "Престижная академия для подготовки специалистов в области кино, театра и изобразительного искусства.",
+      "en": "Prestigious academy for training specialists in film, theater, and fine arts.",
+      "kk": "Кино, театр және бейнелеу өнері саласындағы мамандарды даярлайтын беделді академия."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, пр. Достык, 22",
+      "en": "Almaty, Dostyk ave., 22",
+      "kk": "Алматы қ., Достық д-лы, 22"
+    },
+    "website": "https://kaznai.kz",
+    "rating": 4.3,
+    "contacts": {
+      "phone": "+7 (727) 267-18-42",
+      "email": "info@kaznai.kz"
+    }
+  },
+  {
+    "id": 11,
+    "name": {
+      "ru": "Казахский Национальный Аграрный Университет",
+      "en": "Kazakh National Agrarian University",
+      "kk": "Қазақ Ұлттық Аграрлық Университеті"
+    },
+    "description": {
+      "ru": "Крупнейший аграрный вуз страны, готовящий специалистов для сельского хозяйства.",
+      "en": "The largest agricultural university in the country, training specialists for agriculture.",
+      "kk": "Ауыл шаруашылығына мамандарды даярлайтын елдің ең үлкен аграрлық жоғары оқу орны."
+    },
+    "region": {
+      "ru": "Алматы",
+      "en": "Almaty",
+      "kk": "Алматы"
+    },
+    "country": {
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "kk": "Қазақстан"
+    },
+    "address": {
+      "ru": "г. Алматы, пр. Абая, 8",
+      "en": "Almaty, Abay ave., 8",
+      "kk": "Алматы қ., Абай д-лы, 8"
+    },
+    "website": "https://kazatu.kz",
+    "rating": 4.2,
+    "contacts": {
+      "phone": "+7 (727) 263-93-81",
+      "email": "info@kazatu.kz"
+    }
+  }
+]

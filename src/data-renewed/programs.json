@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "university_id": 1,
+    "name": {
+      "ru": "Информационные технологии",
+      "en": "Information Technology",
+      "kk": "Ақпараттық технологиялар"
+    },
+    "description": {
+      "ru": "Базовая программа подготовки специалистов в области разработки, внедрения и обслуживания информационных систем.",
+      "en": "Basic training program for specialists in the development, implementation, and maintenance of information systems.",
+      "kk": "Ақпараттық жүйелерді әзірлеу, енгізу және қызмет көрсету саласындағы мамандарды даярлаудың базалық бағдарламасы."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 102,
+    "university_id": 1,
+    "name": {
+      "ru": "Программная инженерия",
+      "en": "Software Engineering",
+      "kk": "Бағдарламалық инженерия"
+    },
+    "description": {
+      "ru": "Углубленное изучение процессов разработки крупномасштабного программного обеспечения и управления проектами.",
+      "en": "In-depth study of large-scale software development processes and project management.",
+      "kk": "Ірі көлемді бағдарламалық қамтамасыз етуді әзірлеу процестерін және жобаларды басқаруды тереңдетіп оқыту."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 201,
+    "university_id": 2,
+    "name": {
+      "ru": "Компьютерные науки",
+      "en": "Computer Science",
+      "kk": "Компьютерлік ғылымдар"
+    },
+    "description": {
+      "ru": "Теоретические основы вычислений, алгоритмов, языков программирования и искусственного интеллекта.",
+      "en": "Theoretical foundations of computation, algorithms, programming languages, and artificial intelligence.",
+      "kk": "Есептеудің, алгоритмдердің, бағдарламалау тілдерінің және жасанды интеллектің теориялық негіздері."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 301,
+    "university_id": 3,
+    "name": {
+      "ru": "Нефтегазовое дело",
+      "en": "Petroleum Engineering",
+      "kk": "Мұнай және газ ісі"
+    },
+    "description": {
+      "ru": "Подготовка инженеров для разведки, добычи и транспортировки углеводородов с учетом международных стандартов.",
+      "en": "Training engineers for exploration, extraction, and transportation of hydrocarbons in compliance with international standards.",
+      "kk": "Халықаралық стандарттарды ескере отырып, көмірсутектерді барлау, өндіру және тасымалдау үшін инженерлерді даярлау."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 302,
+    "university_id": 3,
+    "name": {
+      "ru": "Финансы (ISE)",
+      "en": "Finance (ISE)",
+      "kk": "Қаржы (Хал. Экономика мектебі)"
+    },
+    "description": {
+      "ru": "Программа Международной школы экономики (ISE), направленная на глубокое изучение корпоративных финансов, инвестиций и рынков.",
+      "en": "International School of Economics (ISE) program focused on in-depth study of corporate finance, investments, and markets.",
+      "kk": "Корпоративтік қаржы, инвестициялар және нарықтарды терең оқытуға бағытталған Халықаралық экономика мектебінің (ISE) бағдарламасы."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 501,
+    "university_id": 5,
+    "name": {
+      "ru": "Юриспруденция",
+      "en": "Jurisprudence",
+      "kk": "Құқықтану"
+    },
+    "description": {
+      "ru": "Классическое юридическое образование с углубленным изучением гражданского, уголовного и международного права.",
+      "en": "Classical legal education with in-depth study of civil, criminal, and international law.",
+      "kk": "Азаматтық, қылмыстық және халықаралық құқықты терең оқытумен классикалық заң білімі."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 601,
+    "university_id": 6,
+    "name": {
+      "ru": "Международные отношения",
+      "en": "International Relations",
+      "kk": "Халықаралық қатынастар"
+    },
+    "description": {
+      "ru": "Подготовка специалистов, анализирующих глобальные политические и экономические процессы, с сильной языковой подготовкой.",
+      "en": "Training specialists who analyze global political and economic processes, with strong language skills.",
+      "kk": "Мықты тілдік дайындықпен жаһандық саяси және экономикалық процестерді талдайтын мамандарды даярлау."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 901,
+    "university_id": 9,
+    "name": {
+      "ru": "Общая медицина",
+      "en": "General Medicine",
+      "kk": "Жалпы медицина"
+    },
+    "description": {
+      "ru": "Базовая программа для будущих врачей, охватывающая все аспекты клинической и фундаментальной медицины.",
+      "en": "Basic program for future doctors, covering all aspects of clinical and fundamental medicine.",
+      "kk": "Клиникалық және іргелі медицинаның барлық аспектілерін қамтитын болашақ дәрігерлерге арналған базалық бағдарлама."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 1001,
+    "university_id": 10,
+    "name": {
+      "ru": "Режиссура кино и ТВ",
+      "en": "Film and TV Directing",
+      "kk": "Кино және ТВ режиссурасы"
+    },
+    "description": {
+      "ru": "Профессиональная подготовка режиссеров для киноиндустрии и телевидения, включая работу со сценарием и актерским составом.",
+      "en": "Professional training of directors for the film industry and television, including script and cast management.",
+      "kk": "Киноиндустрия және телевидение үшін режиссерлерді кәсіби даярлау, сценариймен және актерлер құрамымен жұмыс істеуді қамтиды."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "2025-01-01T00:00:00"
+  },
+  {
+    "id": 1101,
+    "university_id": 11,
+    "name": {
+      "ru": "Агрономия",
+      "en": "Agronomy",
+      "kk": "Агрономия"
+    },
+    "description": {
+      "ru": "Подготовка специалистов по растениеводству, почвоведению и управлению сельскохозяйственным производством.",
+      "en": "Training specialists in crop production, soil science, and agricultural production management.",
+      "kk": "Өсімдік шаруашылығы, топырақтану және ауыл шаруашылығы өндірісін басқару бойынша мамандарды даярлау."
+    },
+    "created_at": "2025-01-01T00:00:00",
+    "updated_at": "25-01-01T00:00:00"
+  }
+]
